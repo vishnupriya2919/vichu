@@ -13,6 +13,7 @@ public class Simple {
 		li.add(40);
 		li.add(50);
 		li.add(60);
+		lee
 		
 		
 		
