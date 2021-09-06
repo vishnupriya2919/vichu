@@ -13,8 +13,12 @@ public class Simple {
 		li.add(40);
 		li.add(50);
 		li.add(60);
+<<<<<<< HEAD
+		lee
+=======
 		li.add(90);
 		li.add(100);
+>>>>>>> bfd28c932bc5e005e0d43a1d56f19c286b30af47
 		
 		
 		
